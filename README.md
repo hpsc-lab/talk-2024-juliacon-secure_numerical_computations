@@ -1,6 +1,7 @@
-# Secure numerical computations using fully homomorphic encryption
+# JuliaCon 2024: Secure numerical computations using fully homomorphic encryption
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12703229.svg)](https://zenodo.org/doi/10.5281/zenodo.12703229)
 
 This is the companion repository for the talk
 
@@ -37,7 +38,22 @@ using Pkg
 Pkg.instantiate()
 ```
 
-To run the examples, include the relevant Julia files from the [`code/`](code) subdirectory in the REPL. More details can be found in the code-specific [README](code/README.md).
+To run the examples, include the relevant Julia files from the [`code/`](code) subdirectory in the
+REPL. More details can be found in the code-specific [README](code/README.md).
+
+## How to cite us
+If you would like to reference results from this talk or the reproducibility repository itself,
+please cite us as follows:
+```bibtex
+@misc{schlottkelakemper2024securecompute,
+  title={{S}ecure numerical computations using fully homomorphic encryption},
+  author={Michael Schlottke-Lakemper and Arseniy Kholod},
+  year={2024},
+  note={JuliaCon 2024, Eindhoven, 10th July 2024},
+  howpublished={\url{https://github.com/hpsc-lab/talk-2024-juliacon-secure_numerical_computations}},
+  doi={10.5281/zenodo.12703229}
+}
+```
 
 ## Authors
 This repository was initiated by
