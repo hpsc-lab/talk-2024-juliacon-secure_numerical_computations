@@ -1,0 +1,8 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CpuId = "adafc99b-e345-5852-983c-f28acb93d879"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Measures = "442fdcdd-2543-5da2-b0f3-8c86c306513e"
+OpenFHE = "77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SecureArithmetic = "38cee09b-6d7e-4d21-866e-807a7f642fe9"

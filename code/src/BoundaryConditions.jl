@@ -1,0 +1,3 @@
+abstract type AbstractBoundaryConditions end
+
+struct PeriodicBoundaryConditions <: AbstractBoundaryConditions end
